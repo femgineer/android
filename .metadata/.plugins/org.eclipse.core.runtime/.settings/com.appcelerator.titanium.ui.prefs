@@ -1,0 +1,10 @@
+=run
+Android\ Emulator\ Process\:ConsoleLogLevel=Info
+LAST_LAUNCH_TIMESTAMP=1395592550693
+eclipse.preferences.version=1
+hello\:launchMode=run
+hello\:launchShortcut=com.appcelerator.titanium.mobile.ui.android.device.launchShortcut
+helloworld2\:launchMode=run
+helloworld2\:launchShortcut=com.appcelerator.titanium.mobile.ui.android.device.launchShortcut
+helloworld\:launchMode=run
+helloworld\:launchShortcut=com.appcelerator.titanium.mobile.ui.android.simulator.launchShortcut.titanium_1_WVGA800
